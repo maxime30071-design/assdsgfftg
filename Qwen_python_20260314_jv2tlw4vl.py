@@ -3,7 +3,7 @@ import os
 from docx2pdf import convert
 
 # ←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←
-TOKEN = '8557904029:AAHEsr2go1lgtvMB9ezjzZ83rYwBwxKfiU4'  # ← Замени!
+TOKEN = '8606785863:AAGgtfEEn1i8Af3aD2UxpksiQ7Wb0VgivUs'  # ← Замени!
 # ←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←
 
 bot = telebot.TeleBot(TOKEN)
